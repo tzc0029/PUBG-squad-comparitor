@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Author     : Andrew Winland
+*/
+
+body {
+   font-family: verdana;
+   background-color: #000000;
+   color: #FFA500;
+   
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+pre {
+    border: 2px solid #cccccc;
+    padding: 10px;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%
+}
+
+t1 {
+    text-align: center;
+    color: #FFA500;
+}
+
+table {
+    color: #FFA500;
+    text-align: center;
+}
+a {
+    color: #FFA500;
+    text-decoration: none;
+}
